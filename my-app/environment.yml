@@ -1,0 +1,11 @@
+name: py385_c2b_my_app
+
+channels:
+    - defaults
+
+dependencies:
+    - python=3.8.5
+    - pip
+    - pyinstaller
+    - pip:
+        - ../my-lib/dist/my_lib-0.0.0-cp38-cp38-win_amd64.whl

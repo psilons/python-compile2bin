@@ -1,0 +1,11 @@
+name: py385_c2b_nuitka_app
+
+channels:
+    - defaults
+
+dependencies:
+    - python=3.8.5
+    - pip
+    - nuitka
+    - pip:
+          - clcache

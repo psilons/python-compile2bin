@@ -1,0 +1,11 @@
+__pycache__
+.coverage
+*.egg-info
+build
+dist
+dist_conda
+dist_zip
+/nuitka_test/src/python38.dll
+/nuitka_test/src/klotski_app.build
+/nuitka_test/src/klotski_app.exe
+/my-app/klotski_app.spec

@@ -1,0 +1,9 @@
+name: py385_c2b_my_lib
+
+channels:
+    - defaults
+
+dependencies:
+    - python=3.8.5
+    - pip
+    - cython
