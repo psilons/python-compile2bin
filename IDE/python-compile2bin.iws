@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3f5f4525-ea92-4608-b12e-ceeac9af674a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/python-compile2bin.iws" beforeDir="false" afterPath="$PROJECT_DIR$/python-compile2bin.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-app/pyinstaller_build.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../my-app/pyinstaller_build.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +177,7 @@
       <updated>1602657420923</updated>
       <workItem from="1602657422088" duration="1201000" />
       <workItem from="1602737441321" duration="18713000" />
-      <workItem from="1602827610282" duration="659000" />
+      <workItem from="1602827610282" duration="1090000" />
     </task>
     <servers />
   </component>
